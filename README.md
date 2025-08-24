@@ -13,8 +13,8 @@ By the end, I had created a clean and structured set of outputs that highlighted
 ## ✅ Data Grouping & Aggregation Performed
 ### I carried out multiple groupby() and agg() operations, each focusing on extracting valuable insights:
 - Average Purchase Amount by Gender 👩‍🦰👨‍🦱
--- Calculated the mean spending for male vs female customers.
--- Provided insights into gender-based purchasing behaviors.
+• Calculated the mean spending for male vs female customers.
+• Provided insights into gender-based purchasing behaviors.
 - Total Spending by Product Category 🛍
 -- Summed purchase amounts across different product categories.
 -- Identified which categories generated the highest revenue streams.
