@@ -13,24 +13,24 @@ By the end, I had created a clean and structured set of outputs that highlighted
 ## ✅ Data Grouping & Aggregation Performed
 ### I carried out multiple groupby() and agg() operations, each focusing on extracting valuable insights:
 - Average Purchase Amount by Gender 👩‍🦰👨‍🦱
-• Calculated the mean spending for male vs female customers.
-• Provided insights into gender-based purchasing behaviors.
+⭐ Calculated the mean spending for male vs female customers.
+⭐ Provided insights into gender-based purchasing behaviors.
 - Total Spending by Product Category 🛍
--- Summed purchase amounts across different product categories.
--- Identified which categories generated the highest revenue streams.
+⭐ Summed purchase amounts across different product categories.
+⭐ Identified which categories generated the highest revenue streams.
 - Average Age of Customers by Location 🌍
--- Grouped by customer location and calculated average age.
--- Useful for identifying which regions had younger or older demographics.
+⭐ Grouped by customer location and calculated average age.
+⭐ Useful for identifying which regions had younger or older demographics.
 - Customer Count by Subscription Status 📩
--- Counted customers under Subscribed vs Non-Subscribed groups.
--- Helpful in evaluating customer loyalty and marketing effectiveness.
+⭐ Counted customers under Subscribed vs Non-Subscribed groups.
+⭐ Helpful in evaluating customer loyalty and marketing effectiveness.
 - Multi-Aggregation Gender Summary 📊
--- Produced a composite report summarizing gender differences with:
---- 🟢 Average Age
---- 🟢 Total Spending
---- 🟢 Average Spending
---- 🟢 Number of Customers
-Delivered a concise yet powerful breakdown for comparison.
+⭐ Produced a composite report summarizing gender differences with:
+⭐ 🟢 Average Age
+⭐ 🟢 Total Spending
+⭐ 🟢 Average Spending
+⭐ 🟢 Number of Customers
+- Delivered a concise yet powerful breakdown for comparison.
 
 ## 🛠 Tools & Techniques Used
 ### The dashboard was built using the following tools and technologies:
@@ -59,7 +59,7 @@ Delivered a concise yet powerful breakdown for comparison.
 - 🌍 Business-Oriented Thinking → Understood how grouping operations directly support customer analysis, product trends, and loyalty metrics.
 - 🧑‍💻 Reusable Analytics Script → Built a flexible template for grouping/aggregation tasks, applicable to real-world datasets.
 
-## ✅ Final Outcome: 
+## ✅ Final Outcome:-
 A clean, professional grouping analysis that breaks down customer trends, category sales, gender-based insights, and subscription influence. This task not only improved my Pandas expertise but also strengthened my ability to generate compact and business-relevant summaries from large datasets.
 
 ## 🔗 Connect
