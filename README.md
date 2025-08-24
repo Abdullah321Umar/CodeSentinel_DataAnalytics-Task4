@@ -32,13 +32,6 @@ By the end, I had created a clean and structured set of outputs that highlighted
 ⭐ 🟢 Number of Customers
 - Delivered a concise yet powerful breakdown for comparison.
 
-## 🛠 Tools & Techniques Used
-### The dashboard was built using the following tools and technologies:
-- Python (Jupyter Notebook / Script) → for coding and analysis.
-- NumPy → handled numerical calculations.
-- Pandas → data exploration, aggregation, and manipulation.
-- Matplotlib & Seaborn → for plotting bar charts, histograms, scatter plots, heatmaps, and boxplots.
-
 ## 📈 Analytical Discoveries
 - Gender Analysis: Helped highlight how males and females differ in average spending habits.
 - Category Spending: Some categories consistently generated higher purchase volumes, showing strong demand.
